@@ -3,7 +3,6 @@
 I invite you to explore my code repositories, which are centered around topics in 🔭 and ⚗️ .
 Should you wish to contact me, you may find my contact details on my personal page: https://JVB11.github.io
 
-Have fun!
 <!--
 **JVB11/JVB11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
