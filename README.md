@@ -1,7 +1,7 @@
 ### Welcome to JVB's github profile 👋🏻
 
 I invite you to explore my code repositories, which are centered around topics in 🔭 and ⚗️ .
-Should you wish to contact me, you may find my contact details on my github page: https://JVB11.github.io
+Should you wish to contact me, you may find my contact details on my personal page: https://JVB11.github.io
 
 Have fun!
 <!--
